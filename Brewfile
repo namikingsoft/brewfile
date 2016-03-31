@@ -42,8 +42,6 @@ brew libnet
 brew libpng
 brew libyaml
 brew maven
-brew mecab
-brew mecab-ipadic
 brew nkf
 brew oniguruma
 brew openssl

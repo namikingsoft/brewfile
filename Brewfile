@@ -12,6 +12,7 @@ cask dropbox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
+cask karabiner
 cask kindle
 cask vagrant
 cask virtualbox
@@ -60,7 +61,6 @@ brew xz
 # App Store applications
 appstore 417375580 BetterSnapTool
 appstore 415312377 Boom
-appstore 406056744 Evernote
 appstore 571150542 FeedNotifier
 appstore 510934532 FreeMan
 appstore 409183694 Keynote
